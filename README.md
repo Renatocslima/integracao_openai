@@ -1,7 +1,8 @@
 # Requisição ChatGPT
 
 Projeto de APIchat GPT com Python - Portifólio de formação OpenAI e Python
-|~Status do Projeto: Em desenvolvimento~|
+
+*Status do Projeto: Em desenvolvimento*
 
 
 | :placard: Vitrine.Dev |  https://cursos.alura.com.br/vitrinedev/renato-cslima7   |
