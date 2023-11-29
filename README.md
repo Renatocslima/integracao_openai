@@ -7,7 +7,7 @@ Projeto de APIchat GPT com Python - Portifólio de formação OpenAI e Python
 
 | :placard: Vitrine.Dev |  https://cursos.alura.com.br/vitrinedev/renato-cslima7   |
 | -------------  | --- |
-| :sparkles: Nome        | **APIchat GPT com Python**
+| :sparkles: Nome        | **API ChatGPT com Python**
 | :label: Tecnologias | python
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
